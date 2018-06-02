@@ -1,2 +1,9 @@
 # c-exam
-Alone in the Dark. School 42
+
+* Brainfuck
+* print bits
+* reverse bits
+* swap bits
+* sort list
+* list for each
+* reverse string
